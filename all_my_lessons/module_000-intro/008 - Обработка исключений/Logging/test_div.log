@@ -1,0 +1,11 @@
+test_div 2023-10-22 06:03:28,504 INFO Testing the custom logger for module test_div...
+test_div 2023-10-22 06:03:28,504 INFO x/y successful with result: 0.4.
+test_div 2023-10-22 06:03:28,504 INFO x/y successful with result: 0.42857142857142855.
+test_div 2023-10-22 06:03:28,505 INFO x/y successful with result: 0.5.
+test_div 2023-10-22 06:03:28,505 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "D:\Python - SkillBox\Lessons\Мой курс\008 - Обработка исключений\Logging\test_div.py", line 19, in test_division
+    x/y
+    ~^~
+ZeroDivisionError: division by zero
+test_div 2023-10-22 06:03:28,507 INFO x/y successful with result: 10.0.

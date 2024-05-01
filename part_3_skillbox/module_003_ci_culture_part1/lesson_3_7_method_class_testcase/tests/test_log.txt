@@ -1,0 +1,12 @@
+
+test_model.PerformanceTest.test_million_appends 0.0976415810000617
+test_model.PerformanceTest.test_million_appends 0.09595291500045278
+test_model.PerformanceTest.test_sum_of_numbers 0.011374046000128146
+test_model.PerformanceTest.test_million_appends 0.10410499399949913
+test_model.PerformanceTest.test_sum_of_numbers 0.011430970000219531
+test_model.PerformanceTest.test_million_appends 0.09680640899932769
+test_model.PerformanceTest.test_sum_of_numbers 0.011324185999910696
+test_model.PerformanceTest.test_million_appends 0.09911030500006746
+test_model.PerformanceTest.test_sum_of_numbers 0.011421891998907086
+test_model.PerformanceTest.test_million_appends 0.10195413799920061
+test_model.PerformanceTest.test_sum_of_numbers 0.010552730000199517

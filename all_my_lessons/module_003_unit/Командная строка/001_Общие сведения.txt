@@ -1,0 +1,11 @@
+python -m unittest test_documentation.py <-- Запуск теста.
+python -m unittest tests/test_documentation.py <-- Запуск теста с указание пути.
+
+Модуль unittest можно использовать из командной строки для запуска тестов из модуля, класса или даже отдельные методы
+тестирования:
+python -m unittest test_module1 test_module2
+python -m unittest test_module.TestClass
+python -m unittest test_module.TestClass.test_method
+
+Вы можете запускать тесты с большей детализацией (более подробной информацией), указав флаг -v:
+python -m unittest -v test_module

@@ -1,0 +1,19 @@
+итого 64
+-rw-rw-r-- 1 bigbid bigbid 1187 апр 20 05:47 001 - List_procces.py
+-rwxrwxrwx 1 bigbid bigbid 2085 фев 28 05:10 001 - Список процессов.txt
+-rw-rw-r-- 1 bigbid bigbid  941 апр 20 05:52 002 - get_mean_size.py
+-rw-rw-r-- 1 bigbid bigbid 2671 апр 20 05:57 002 - Средний размер файла(get_mean_size).txt
+-rw-rw-r-- 1 bigbid bigbid 3187 мар 10 12:23 003 - Дешифратор.txt
+-rw-rw-r-- 1 bigbid bigbid  594 мар 10 15:06 004 - good_days.py
+-rw-rw-r-- 1 bigbid bigbid 1684 мар 10 13:00 004 - Хорошего дня.txt
+-rw-rw-r-- 1 bigbid bigbid  420 мар 10 14:56 005 - max_diggit.py
+-rw-rw-r-- 1 bigbid bigbid 1661 мар 10 14:31 005 - Максимальное число
+-rw-rw-r-- 1 bigbid bigbid  509 мар 10 15:35 006 - portfolio_file.py
+-rw-rw-r-- 1 bigbid bigbid 3134 мар 10 15:13 006-Превью файла.txt
+-rw-rw-r-- 1 bigbid bigbid 1810 мар 10 18:07 007 - finance.py
+-rw-rw-r-- 1 bigbid bigbid 2632 мар 10 15:48 007 - Учет финансов.txt
+-rw-rw-r-- 1 bigbid bigbid  269 мар 10 13:00 decrypt.py
+-rw-rw-r-- 1 bigbid bigbid    0 апр 20 05:57 output_file.txt
+-rw-rw-r-- 1 bigbid bigbid    0 апр 20 05:41 Practica.py
+drwxrwxr-x 2 bigbid bigbid 4096 мар 10 15:41 templates
+-rw-rw-r-- 1 bigbid bigbid  145 мар 10 13:49 test.py

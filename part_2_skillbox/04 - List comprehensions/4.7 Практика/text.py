@@ -1,0 +1,1 @@
+print(all(list(map(lambda x: x.isdigit() and (int(x) in range(256)), input().split('.')))))

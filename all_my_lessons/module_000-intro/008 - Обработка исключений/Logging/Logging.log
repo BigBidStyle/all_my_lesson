@@ -1,0 +1,31 @@
+root 2023-10-22 05:57:04,738 INFO ---------------------------------------
+root 2023-10-22 05:57:04,738 INFO The values of x and y are 3 and 4.
+root 2023-10-22 05:57:04,738 INFO x/y successful with result: 0.75.
+root 2023-10-22 05:57:04,739 INFO ---------------------------------------
+root 2023-10-22 05:57:04,739 INFO The values of x and y are 3 and 0.
+root 2023-10-22 05:57:04,739 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "D:\Python - SkillBox\Lessons\Мой курс\008 - Обработка исключений\Logging\Logging.py", line 123, in text_logging
+    z = x / y
+        ~~^~~
+ZeroDivisionError: division by zero
+root 2023-10-22 05:57:04,741 INFO ---------------------------------------
+root 2023-10-22 05:57:04,742 INFO The values of x and y are 2 and 5.
+root 2023-10-22 05:57:04,742 INFO x/y successful with result: 0.4.
+root 2023-10-22 05:57:04,742 INFO ---------------------------------------
+root 2023-10-22 05:57:04,742 INFO The values of x and y are 3 and 7.
+root 2023-10-22 05:57:04,742 INFO x/y successful with result: 0.42857142857142855.
+root 2023-10-22 05:57:04,742 INFO ---------------------------------------
+root 2023-10-22 05:57:04,742 INFO The values of x and y are 6 and 12.
+root 2023-10-22 05:57:04,742 INFO x/y successful with result: 0.5.
+root 2023-10-22 05:57:04,742 INFO ---------------------------------------
+root 2023-10-22 05:57:04,742 INFO The values of x and y are 4 and 0.
+root 2023-10-22 05:57:04,742 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "D:\Python - SkillBox\Lessons\Мой курс\008 - Обработка исключений\Logging\Logging.py", line 153, in <module>
+    res = x / y
+          ~~^~~
+ZeroDivisionError: division by zero
+root 2023-10-22 05:57:04,742 INFO ---------------------------------------
+root 2023-10-22 05:57:04,742 INFO The values of x and y are 10 and 1.
+root 2023-10-22 05:57:04,742 INFO x/y successful with result: 10.0.
